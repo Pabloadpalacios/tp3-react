@@ -1,0 +1,44 @@
+{
+    "hero": [
+      {
+        "id": 12,
+        "name": "Batman"
+      },
+      {
+        "id": 13,
+        "name": "Superman"
+      },
+      {
+        "id": 14,
+        "name": "Wolverine"
+      },
+      {
+        "id": 15,
+        "name": "Papa Pitufo"
+      },
+      {
+        "id": 16,
+        "name": "Heman"
+      },
+      {
+        "id": 17,
+        "name": "Robotech"
+      },
+      {
+        "id": 19,
+        "name": "Mazinger Z"
+      },
+      {
+        "id": 20,
+        "name": "Patan"
+      },
+      {
+        "id": 2,
+        "name": "Dr IQ"
+      },
+      {
+        "id": 47,
+        "name": "Diego Maradona"
+      }
+    ]
+  }
